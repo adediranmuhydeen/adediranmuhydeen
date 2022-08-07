@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adediranmuhydeen
-- 👀 I’m interested in Python and Data analysis
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Data Science and Python
+- 👀 I’m interested in Application Development, JS, HTML, CSS, .Net, Python and Data analysis
+- 🌱 I’m currently learning HTML, CSS, C#, JavaScript, .Net and SQL
+- 💞️ I’m looking to collaborate on Application Development, Web design, and Data Anlysis
 - 📫 How to reach me adediranmuhydeen@yahoo.com
 
 <!---
