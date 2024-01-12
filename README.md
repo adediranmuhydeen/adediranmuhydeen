@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ADEDIRAN MUHYDEEN ADEBAYO
-- 👀 I am a .Net FullStack developer|C# and ASP.NET with great knowledge of React JS| Data Analyst | Python Programer
+- 👀 I am a .Net FullStack developer| with proficiency in C# ASP.NET with great knowledge of React JS| Data Analysis 
 - 🌱 I’m currently learning Bootstrap, Angular and TypeScript
 - 💞️ I’m looking to collaborate on Application Development, Web design, and Data Anlysis
 - 📫 How to reach me adediranmuhydeen@gmail.com
